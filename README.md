@@ -1,4 +1,4 @@
-# Audio Transcription Tool
+# Audio Transcription Tool LRC_MAKER
 
 A Python-based tool that converts speech from MP3 files into timestamped 
 text using OpenAI's Whisper model (via Faster-Whisper). The output is 
