@@ -34,11 +34,11 @@ It allows users to create or edit synchronized lyrics files (.lrc) while listeni
 tracks in a media player that supports the MPRIS interface, such as VLC, Rhythmbox, or Audacious. 
 The script uses a curses-based text interface to provide a simple terminal-based UI for managing lyrics.
 
-Keyboard Controls (Default):
-up/down: Navigate through lyric lines.
-<SPC>: Synchronize the current line with the playback timestamp.
-e: Toggle between edit mode and sync mode.
-s: Save changes to the .lrc file.
-q: Quit the editor.
-   
+## Keyboard Controls
+
+* up/down: Navigate through lyric lines
+* <SPC>: Synchronize the current line with the playback timestamp
+* e: Toggle between edit mode and sync mode
+* s: Save changes to the .lrc file
+* q: Quit the editor
 
